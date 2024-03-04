@@ -1,0 +1,22 @@
+R:\VisualStudio\SpaceX\bin\Release\TCPIP Messenger.exe.config
+R:\VisualStudio\SpaceX\bin\Release\TCPIP Messenger.exe
+R:\VisualStudio\SpaceX\bin\Release\TCPIP Messenger.pdb
+R:\VisualStudio\SpaceX\obj\Release\SpaceX.csproj.AssemblyReference.cache
+R:\VisualStudio\SpaceX\obj\Release\LogTerminal.AboutBox.resources
+R:\VisualStudio\SpaceX\obj\Release\LogTerminal.FrmTerminal.resources
+R:\VisualStudio\SpaceX\obj\Release\LogTerminal.Properties.Resources.resources
+R:\VisualStudio\SpaceX\obj\Release\SpaceX.csproj.GenerateResource.cache
+R:\VisualStudio\SpaceX\obj\Release\SpaceX.csproj.CoreCompileInputs.cache
+R:\VisualStudio\SpaceX\obj\Release\TCPIP Messenger.exe
+R:\VisualStudio\SpaceX\obj\Release\TCPIP Messenger.pdb
+R:\VisualStudio\SpaceX3\obj\Release\SpaceX.csproj.AssemblyReference.cache
+R:\VisualStudio\SpaceX3\obj\Release\LogTerminal.AboutBox.resources
+R:\VisualStudio\SpaceX3\obj\Release\LogTerminal.FrmTerminal.resources
+R:\VisualStudio\SpaceX3\obj\Release\LogTerminal.Properties.Resources.resources
+R:\VisualStudio\SpaceX3\obj\Release\SpaceX.csproj.GenerateResource.cache
+R:\VisualStudio\SpaceX3\obj\Release\SpaceX.csproj.CoreCompileInputs.cache
+R:\VisualStudio\SpaceX3\obj\Release\TCPIP Messenger.exe
+R:\VisualStudio\SpaceX3\obj\Release\TCPIP Messenger.pdb
+R:\VisualStudio\SpaceX3\bin\Release\TCPIP Messenger.exe.config
+R:\VisualStudio\SpaceX3\bin\Release\TCPIP Messenger.exe
+R:\VisualStudio\SpaceX3\bin\Release\TCPIP Messenger.pdb

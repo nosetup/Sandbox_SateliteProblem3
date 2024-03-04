@@ -1,0 +1,42 @@
+﻿//****************************************************************************
+//****************************************************************************
+/** START SUMMARY
+FEATURES
+
+SANDBOX PROGRAM
+
+TEST DICTIONARY SORTING
+
+
+
+END SUMMARY**/
+//****************************************************************************
+//****************************************************************************
+/** START CHANGE NOTES
+WISHLIST
+Ability to process an exisitng list.
+Remove / Disconnect user
+
+
+Ver 1.0.0.* {Release Notes} {NLD}
+Initial Release (no installer)
+
+Ver 1.0.0.* {Known Issues} {NLD}
+n/a
+
+//template
+Ver major.minor.bugs.revision/*build {type} {author}
+
+END CHANGE NOTES**/
+//****************************************************************************
+//****************************************************************************
+/** START RELEASE INSTRUCTIONS
+
+1. Update revision number at AssemblyInfo.cs
+2. Select build configuration
+3. Build with Installer (Build configuration is kept seperately)
+4. Install + Verify Revision Numbers. Rename installer after verification.
+
+ END RELEASE INSTRUCTIONS**/
+  //****************************************************************************
+//****************************************************************************

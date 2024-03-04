@@ -1,0 +1,11 @@
+R:\VisualStudio\SpaceX3\bin\Debug\TCPIP Messenger.exe.config
+R:\VisualStudio\SpaceX3\bin\Debug\TCPIP Messenger.exe
+R:\VisualStudio\SpaceX3\bin\Debug\TCPIP Messenger.pdb
+R:\VisualStudio\SpaceX3\obj\Debug\SpaceX.csproj.AssemblyReference.cache
+R:\VisualStudio\SpaceX3\obj\Debug\LogTerminal.AboutBox.resources
+R:\VisualStudio\SpaceX3\obj\Debug\LogTerminal.FrmTerminal.resources
+R:\VisualStudio\SpaceX3\obj\Debug\LogTerminal.Properties.Resources.resources
+R:\VisualStudio\SpaceX3\obj\Debug\SpaceX.csproj.GenerateResource.cache
+R:\VisualStudio\SpaceX3\obj\Debug\SpaceX.csproj.CoreCompileInputs.cache
+R:\VisualStudio\SpaceX3\obj\Debug\TCPIP Messenger.exe
+R:\VisualStudio\SpaceX3\obj\Debug\TCPIP Messenger.pdb
