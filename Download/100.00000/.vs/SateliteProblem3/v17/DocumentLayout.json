@@ -1,12 +1,87 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "R:\\VisualStudio\\Sandbox_SateliteProblem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE71346-25BB-4D3D-B91E-EE027947F8D9}|SateliteProblem3.csproj|R:\\VisualStudio\\Sandbox_SateliteProblem\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE71346-25BB-4D3D-B91E-EE027947F8D9}|SateliteProblem3.csproj|solutionrelative:terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE71346-25BB-4D3D-B91E-EE027947F8D9}|SateliteProblem3.csproj|r:\\visualstudio\\sandbox_sateliteproblem\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE71346-25BB-4D3D-B91E-EE027947F8D9}|SateliteProblem3.csproj|solutionrelative:terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SateliteProblem3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE71346-25BB-4D3D-B91E-EE027947F8D9}|SateliteProblem3.csproj|R:\\VisualStudio\\Sandbox_SateliteProblem\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE71346-25BB-4D3D-B91E-EE027947F8D9}|SateliteProblem3.csproj|solutionrelative:util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE71346-25BB-4D3D-B91E-EE027947F8D9}|SateliteProblem3.csproj|r:\\visualstudio\\sandbox_sateliteproblem\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|031911c8-6148-4e25-b1b1-44bca9a0c45c"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SateliteProblem3",
+              "DocumentMoniker": "R:\\VisualStudio\\Sandbox_SateliteProblem\\SateliteProblem3.csproj",
+              "RelativeDocumentMoniker": "SateliteProblem3.csproj",
+              "ToolTip": "R:\\VisualStudio\\Sandbox_SateliteProblem\\SateliteProblem3.csproj",
+              "RelativeToolTip": "SateliteProblem3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-05T17:05:11.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Util.cs",
+              "DocumentMoniker": "R:\\VisualStudio\\Sandbox_SateliteProblem\\Util.cs",
+              "RelativeDocumentMoniker": "Util.cs",
+              "ToolTip": "R:\\VisualStudio\\Sandbox_SateliteProblem\\Util.cs",
+              "RelativeToolTip": "Util.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAIA9wEEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:36:00.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Terminal.cs",
+              "DocumentMoniker": "R:\\VisualStudio\\Sandbox_SateliteProblem\\Terminal.cs",
+              "RelativeDocumentMoniker": "Terminal.cs",
+              "ToolTip": "R:\\VisualStudio\\Sandbox_SateliteProblem\\Terminal.cs",
+              "RelativeToolTip": "Terminal.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwM8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:07:33.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Terminal.cs [Design]",
+              "DocumentMoniker": "R:\\VisualStudio\\Sandbox_SateliteProblem\\Terminal.cs",
+              "RelativeDocumentMoniker": "Terminal.cs",
+              "ToolTip": "R:\\VisualStudio\\Sandbox_SateliteProblem\\Terminal.cs [Design]",
+              "RelativeToolTip": "Terminal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:07:29.996Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

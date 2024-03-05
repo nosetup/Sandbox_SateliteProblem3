@@ -31,3 +31,10 @@ R:\VisualStudio\Sandbox_SateliteProblem\obj\Debug\SateliteProblem3.pdb
 R:\VisualStudio\Sandbox_SateliteProblem\bin\Debug\SateliteProblem3.exe.config
 R:\VisualStudio\Sandbox_SateliteProblem\bin\Debug\SateliteProblem3.exe
 R:\VisualStudio\Sandbox_SateliteProblem\bin\Debug\SateliteProblem3.pdb
+R:\VisualStudio\Sandbox_SateliteProblem\bin\Debug\test\01_two_users.txt
+R:\VisualStudio\Sandbox_SateliteProblem\bin\Debug\test\02_five_users.txt
+R:\VisualStudio\Sandbox_SateliteProblem\bin\Debug\test\03_equatorial_band.txt
+R:\VisualStudio\Sandbox_SateliteProblem\bin\Debug\test\04_five_thousand.txt
+R:\VisualStudio\Sandbox_SateliteProblem\bin\Debug\test\05_fifty_thousand_low_coverage.txt
+R:\VisualStudio\Sandbox_SateliteProblem\bin\Debug\test\06_ten_thousand.txt
+R:\VisualStudio\Sandbox_SateliteProblem\bin\Debug\test\alt01_two_users.txt

@@ -12,4 +12,8 @@
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
     <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>
+    </ReferencePath>
+  </PropertyGroup>
 </Project>

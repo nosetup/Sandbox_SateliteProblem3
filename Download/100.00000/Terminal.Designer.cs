@@ -84,7 +84,7 @@
             this.TsbtnClearConsole = new System.Windows.Forms.ToolStripButton();
             this.BtnTest1 = new System.Windows.Forms.Button();
             this.BtnTest4 = new System.Windows.Forms.Button();
-            this.BtnClientDisconnect = new System.Windows.Forms.Button();
+            this.BtnAltTest1 = new System.Windows.Forms.Button();
             this.BtnTest5 = new System.Windows.Forms.Button();
             this.BtnTest6 = new System.Windows.Forms.Button();
             this.BtnTest3 = new System.Windows.Forms.Button();
@@ -144,21 +144,18 @@
             this.TsmiFileLogs.Name = "TsmiFileLogs";
             this.TsmiFileLogs.Size = new System.Drawing.Size(152, 34);
             this.TsmiFileLogs.Text = "Logs";
-            this.TsmiFileLogs.Click += new System.EventHandler(this.TsmiFileLogs_Click);
             // 
             // TsmiFLogsOpen
             // 
             this.TsmiFLogsOpen.Name = "TsmiFLogsOpen";
             this.TsmiFLogsOpen.Size = new System.Drawing.Size(176, 34);
             this.TsmiFLogsOpen.Text = "Open";
-            this.TsmiFLogsOpen.Click += new System.EventHandler(this.TsmLogsOpen_Click);
             // 
             // TsmiFLogsSaveAs
             // 
             this.TsmiFLogsSaveAs.Name = "TsmiFLogsSaveAs";
             this.TsmiFLogsSaveAs.Size = new System.Drawing.Size(176, 34);
             this.TsmiFLogsSaveAs.Text = "Save As";
-            this.TsmiFLogsSaveAs.Click += new System.EventHandler(this.TsmLogsSaveAs_Click);
             // 
             // toolStripSeparator2
             // 
@@ -204,7 +201,6 @@
             this.TsmiAScriptOpen.Name = "TsmiAScriptOpen";
             this.TsmiAScriptOpen.Size = new System.Drawing.Size(208, 34);
             this.TsmiAScriptOpen.Text = "Open Script";
-            this.TsmiAScriptOpen.Click += new System.EventHandler(this.TsmScriptOpen_Click);
             // 
             // toolStripSeparator4
             // 
@@ -216,7 +212,6 @@
             this.TsmiAScriptSaveAs.Name = "TsmiAScriptSaveAs";
             this.TsmiAScriptSaveAs.Size = new System.Drawing.Size(208, 34);
             this.TsmiAScriptSaveAs.Text = "Save As";
-            this.TsmiAScriptSaveAs.Click += new System.EventHandler(this.TsmScriptSaveAs_Click);
             // 
             // TsmiAutomateAutoReply
             // 
@@ -233,7 +228,6 @@
             this.TsmiAAutoReplyOpen.Name = "TsmiAAutoReplyOpen";
             this.TsmiAAutoReplyOpen.Size = new System.Drawing.Size(250, 34);
             this.TsmiAAutoReplyOpen.Text = "Open Auto Reply";
-            this.TsmiAAutoReplyOpen.Click += new System.EventHandler(this.TsmAutoReplyOpen_Click);
             // 
             // toolStripSeparator3
             // 
@@ -245,7 +239,6 @@
             this.TsmiAAutoReplySaveAs.Name = "TsmiAAutoReplySaveAs";
             this.TsmiAAutoReplySaveAs.Size = new System.Drawing.Size(250, 34);
             this.TsmiAAutoReplySaveAs.Text = "Save As";
-            this.TsmiAAutoReplySaveAs.Click += new System.EventHandler(this.TsmAutoReplySaveAs_Click);
             // 
             // TsmiControl
             // 
@@ -269,7 +262,6 @@
             this.TsmiCCustomTVControls.Name = "TsmiCCustomTVControls";
             this.TsmiCCustomTVControls.Size = new System.Drawing.Size(206, 34);
             this.TsmiCCustomTVControls.Text = "TV Controls";
-            this.TsmiCCustomTVControls.Click += new System.EventHandler(this.TsmTVControls_Click);
             // 
             // TsmiHelp
             // 
@@ -394,7 +386,6 @@
             this.tsbtnLogOpen.Name = "tsbtnLogOpen";
             this.tsbtnLogOpen.Size = new System.Drawing.Size(34, 28);
             this.tsbtnLogOpen.Text = "Open";
-            this.tsbtnLogOpen.Click += new System.EventHandler(this.TsbtnLogOpen_Click);
             // 
             // tsbtnLogSaveAs
             // 
@@ -404,7 +395,6 @@
             this.tsbtnLogSaveAs.Name = "tsbtnLogSaveAs";
             this.tsbtnLogSaveAs.Size = new System.Drawing.Size(34, 28);
             this.tsbtnLogSaveAs.Text = "Save As";
-            this.tsbtnLogSaveAs.Click += new System.EventHandler(this.TsbtnLogSaveAs_Click);
             // 
             // toolStripSeparator6
             // 
@@ -428,7 +418,6 @@
             this.tsbtnConnect.Size = new System.Drawing.Size(34, 28);
             this.tsbtnConnect.Text = "Connect";
             this.tsbtnConnect.Visible = false;
-            this.tsbtnConnect.Click += new System.EventHandler(this.TsbtnConnect_Click);
             // 
             // tsbtnDisconnect
             // 
@@ -442,7 +431,6 @@
             this.tsbtnDisconnect.Size = new System.Drawing.Size(34, 28);
             this.tsbtnDisconnect.Text = "Disconnect";
             this.tsbtnDisconnect.Visible = false;
-            this.tsbtnDisconnect.Click += new System.EventHandler(this.TsbtnDisconnect_Click);
             // 
             // toolStripSeparator7
             // 
@@ -465,7 +453,6 @@
             this.tsbtnTVControls.Size = new System.Drawing.Size(34, 28);
             this.tsbtnTVControls.Text = "Show TV Controls";
             this.tsbtnTVControls.Visible = false;
-            this.tsbtnTVControls.Click += new System.EventHandler(this.TsbtnTVControls_Click);
             // 
             // tsbtnRLSLKRobot
             // 
@@ -507,15 +494,15 @@
             this.BtnTest4.Text = "TEST4";
             this.BtnTest4.Click += new System.EventHandler(this.BtnTest4_Click);
             // 
-            // BtnClientDisconnect
+            // BtnAltTest1
             // 
-            this.BtnClientDisconnect.Location = new System.Drawing.Point(30, 121);
-            this.BtnClientDisconnect.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.BtnClientDisconnect.Name = "BtnClientDisconnect";
-            this.BtnClientDisconnect.Size = new System.Drawing.Size(171, 62);
-            this.BtnClientDisconnect.TabIndex = 45;
-            this.BtnClientDisconnect.Text = "ALT 1";
-            this.BtnClientDisconnect.Click += new System.EventHandler(this.BtnClientDisconnect_Click);
+            this.BtnAltTest1.Location = new System.Drawing.Point(30, 121);
+            this.BtnAltTest1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.BtnAltTest1.Name = "BtnAltTest1";
+            this.BtnAltTest1.Size = new System.Drawing.Size(171, 62);
+            this.BtnAltTest1.TabIndex = 45;
+            this.BtnAltTest1.Text = "ALT 1";
+            this.BtnAltTest1.Click += new System.EventHandler(this.BtnAltTest1_Click);
             // 
             // BtnTest5
             // 
@@ -584,7 +571,7 @@
             this.ClientSize = new System.Drawing.Size(1284, 702);
             this.Controls.Add(this.Dgv_SolutionLog);
             this.Controls.Add(this.BtnTest2);
-            this.Controls.Add(this.BtnClientDisconnect);
+            this.Controls.Add(this.BtnAltTest1);
             this.Controls.Add(this.BtnTest5);
             this.Controls.Add(this.BtnTest6);
             this.Controls.Add(this.BtnTest3);
@@ -665,7 +652,7 @@
         private System.Windows.Forms.Button BtnTest1;
         private System.Windows.Forms.Button BtnTest4;
         private System.Windows.Forms.Button BtnTest5;
-        private System.Windows.Forms.Button BtnClientDisconnect;
+        private System.Windows.Forms.Button BtnAltTest1;
         private System.Windows.Forms.ToolStripButton TsbtnClearConsole;
         private System.Windows.Forms.Button BtnTest6;
         private System.Windows.Forms.Button BtnTest3;
